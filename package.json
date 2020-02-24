@@ -1,0 +1,26 @@
+{
+  "name": "@redballoon/utils-client",
+  "version": "1.0.0",
+  "description": "Common javascript utility files for client side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redballoon/utils-client.git"
+  },
+  "keywords": [
+    "Util",
+    "utils",
+    "utility",
+    "client-side",
+    "javascript"
+  ],
+  "author": "redballoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redballoon/utils-client/issues"
+  },
+  "homepage": "https://github.com/redballoon/utils-client#readme"
+}
